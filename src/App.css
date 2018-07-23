@@ -1,0 +1,24 @@
+.fa-search {
+    color: red;
+}
+
+input {
+    width: 30em;
+    height: 3em;
+    border-radius: 5em;
+    padding-left: 10px;
+}
+
+input:focus {
+    outline:none;
+}
+
+
+
+
+
+
+
+
+
+
